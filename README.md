@@ -25,7 +25,7 @@ Projeto desenvolvido durante o webinário oferecido pela Dio.me
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - JavaScript
-- Node
+- NodeJS
 - HTML e CSS
 
 ## 💻 Projeto
