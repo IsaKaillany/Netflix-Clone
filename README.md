@@ -17,7 +17,7 @@ Projeto desenvolvido durante o webinário oferecido pela Dio.me
 <br>
 
 <p align="center">
-  <img alt="gow" src=".github/preview-netflix.jpg" width="100%">
+  <img alt="netflix" src=".github/preview-netflix.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
